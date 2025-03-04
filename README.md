@@ -14,3 +14,13 @@ Double-checked answers:
 - [ ] sy1
 - [ ] sy2
 - [ ] all
+
+## Notes
+
+all-ans is included in sy1-ans
+
+Answers that are not correct in the PDF:
+
+233 F
+99 F
+197 F
